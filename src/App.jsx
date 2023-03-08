@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-     <h1>Hola! Bienvenido🎸</h1>
+     <h1>Elige una banda 🎸</h1>
      <Formulario></Formulario>
     </div>
   )

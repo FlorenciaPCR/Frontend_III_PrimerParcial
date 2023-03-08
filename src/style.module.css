@@ -33,12 +33,20 @@
     margin:10px;
     color:black;
     border-radius: 10px;
+    border: solid black 2px;
 }
 
 .span{
     border-radius: 5px;
-    padding: 10px;
-    margin: 5px;
+    padding: 5px;
+    margin: 10px;
     background-color: rgb(93, 153, 93);
     color: white;
+    font-weight: bold;
+}
+
+.p{
+    color: black;
+    font-weight: bold;  
+    margin: 5px;
 }
