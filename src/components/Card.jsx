@@ -1,6 +1,8 @@
+import React from 'react'
 
-const Card = ()=>{
-    return(<div>Hola</div>);
+function Card({ name , band}) {
+  return (
+    <div>Hola {name} tu banda favorita es {band}</div>
+  )
 }
-
-export  default Card;
+export default Card
