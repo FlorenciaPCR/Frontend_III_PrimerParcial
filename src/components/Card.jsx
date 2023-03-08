@@ -1,6 +1,6 @@
 
 const Card = ()=>{
-    return(<div></div>);
+    return(<div>Hola</div>);
 }
 
 export  default Card;
